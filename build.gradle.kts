@@ -2,6 +2,7 @@ project.group = "com.openfaas.kotlin.template"
 
 plugins {
     kotlin("jvm") version "1.3.50"
+    maven
 }
 
 repositories {
